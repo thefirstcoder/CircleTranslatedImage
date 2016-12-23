@@ -1,4 +1,5 @@
-# CircleTranslatedImage
+# CircleTranslatedImage/Android Demo
 this is a demo of circle imageview and translated on all screen.
-# CircleImageView
+# CircleImageView 
+the picture into screenshot
 
